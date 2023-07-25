@@ -2,7 +2,7 @@
 
 Tag pada HTML adalah sebuah tanda yang ada pada HTML, tanda ini berfungsi untuk mengirim perintah tertentu yang aan dilakukan web browser.
 Tag ini bisa diartikan sebagai perintah dalam bahasa markup HTML, oleh sebab itu penulisannya harus benar sesuai dengan yang sebenarnya. Tag dalam HTML ini bersifat in-case sensitive.
-Berikut ini adalah tag-tag yang ada pada HTML
+Berikut ini adalah tag yang ada pada HTML
 | Nama | Fungsi |
 |------|--------|
 |`<!DOCTYPE>`| Tag ini berfungsi untuk menentukan sebuah tipe dokumen |
